@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://allnewuser-gcx.hf.space/$1" }
+    { "source": "/(.*)", "destination": "https://nodejs-25bf-7860.prg1.zerops.app/$1" }
   ]
 }
