@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://allnewuser-gcx.hf.space/$1" }
+  ]
+}
